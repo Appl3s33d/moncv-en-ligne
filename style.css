@@ -1,0 +1,41 @@
+.contenu{width: 500px;
+    margin: 10px auto;
+    /* background-color: lightskyblue; */
+
+}
+
+
+.details{
+    /* background-color: aquamarine; */
+    height: 150px;
+   }
+
+div.details img{height: 150px;
+float: left;
+border-radius: 50%;
+height: 150px;
+width: 150px;}
+
+.liste-details{text-align: left;
+    /* background-color: lightpink; */
+    float: left;
+    list-style-type: none;
+    margin-top: 20px;
+   
+    
+}
+
+p{margin: 0px;}
+.cv-section{text-align: left;
+    padding-bottom: 20px;
+    /* background-color: lightgrey; */
+}
+
+hr{ 
+    border-color: rgb(30, 214, 255);}
+
+#poste{font-style: italic;}
+
+h1, h2{text-align: center;
+margin-top: 50px;}
+
